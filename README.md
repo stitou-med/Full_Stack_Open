@@ -1,1 +1,1 @@
-this project is created for full stack webdev formation of helsinki universite
+this project is created for full stack web dev formation of helsinki university
