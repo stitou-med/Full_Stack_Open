@@ -46,13 +46,13 @@ const App = () => {
       <div>
       <Button click={handelVote} text='vote'></Button>
       <Button click={handleselected} text='next anecdote'></Button>
-      </div>
+      </div>    
       <h1> Anecdote with most votes </h1>
       <p>{anecdotes[index]}</p>
 
     </div> 
     </>
-    
+
   )
 }
 
